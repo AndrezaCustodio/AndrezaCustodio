@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hi! My name is <a href="https://www.linkedin.com/in/andreza-custódio-357239121/" target="_blank">Andreza</a> 👩‍💻</h1>
-  <p align="center"><i>I'm Software Test Automation Engineer with 2 years of experience!</i></p>
+  <p align="center"><i>I'm Software Test Automation Engineer with 4 years of experience!</i></p>
   </a><br>
 
 </div>
@@ -8,11 +8,6 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/AndrezaCustodio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrezaCustodio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrezaCustodio&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
  <div>
    <h1 align="center">🌟Languages and Tools</div> 
 <div align="center" style="display: inline_block"><br>
